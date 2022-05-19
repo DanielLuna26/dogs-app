@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogsApp</string>
+
+    <string name="dog_age">Almost %1$d years</string>
+    <string name="title_home">Dogs We Love</string>
+    <string name="error">Error</string>
+    <string name="error_unexpected">An error has occurred unexpected</string>
+    <string name="error_server">An error has occurred on server</string>
+    <string name="button_retry">Retry</string>
+    <string name="error_data">Check your internet connection</string>
+    <string name="attention">Attention</string>
+    <string name="empty_state">Oops! No pets</string>
+</resources>
